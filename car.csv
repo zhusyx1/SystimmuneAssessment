@@ -1,0 +1,11 @@
+CarModleId,CarModleName,SalesName,SoldMonth,NumberSold
+10001,Honda,Amy,Jan,1
+10002,BMW,Brian,Jan,4
+10003,Tesla,Mary,May,88
+10001,Honda,John,Dec,4
+10002,BMW,Brian,Jan,1
+10001,Honda,John,Jan,2
+10002,BMW,Brian,Jan,5
+10003,Tesla,John,May,6
+10001,Honda,John,Dec,2
+10002,BMW,Amy,Jan,1
