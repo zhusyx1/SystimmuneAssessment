@@ -15,7 +15,7 @@ cursor = conn.cursor()
 # Create Table
 cursor.execute('CREATE TABLE car (
     CarModleId int,
-    CarModleName varchar(0),
+    CarModleName varchar(50),
     SalesName varchar(50),
     SoldMonth varchar(10)
     NumberSold int)')
