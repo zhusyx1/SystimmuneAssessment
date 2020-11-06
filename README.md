@@ -2,13 +2,14 @@
 Part I
 
 Please see network diagram in diagram.png. 
-Explaination: Web client send HTTP request to web server through firewall for safety whereas web server would reply web client with HTML/JavaScript. In web server, there could be anything like apache. Web server offers web app like C/ C#/C++. And web app will be connect with SQL database.
+- Explaination: Web client send HTTP request to web server through firewall for safety whereas web server would reply web client with HTML/JavaScript. In web server, there could be anything like apache. Web server offers web app like C/ C#/C++. And web app will be connect with SQL database.
 
  
 
 Part II 
 
 Below is the SQL database create statement, table name is Car, with columns of CarModleId, CarModleName, SalesName, SoldMonth, NumberSold. CarModelId and NumberSold are type of integer whereas the rest of columns are char.
+
 CREATE TABLE Car (
 	    CarModleId int,
 	    CarModleName varchar(50),
