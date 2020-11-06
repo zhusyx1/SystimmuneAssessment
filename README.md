@@ -1,7 +1,8 @@
 # SystimmuneAssessment
 Part I
 
-
+Please see network diagram in diagram.png. 
+Explaination: Web client send HTTP request to web server through firewall for safety whereas web server would reply web client with HTML/JavaScript. In web server, there could be anything like apache. Web server offers web app like C/ C#/C++. And web app will be connect with SQL database.
 
  
 
